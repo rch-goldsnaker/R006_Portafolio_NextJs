@@ -4,6 +4,8 @@ import { BlogCard, CardInfo, ExternalLinks, GridContainer, HeaderThree, Hr, Tag,
 import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
 import { projects } from '../../constants/constants';
 
+const prefix = '/TestingGithubActions'
+
 const Projects = () => (
   <Section nopadding id="projects">
     <SectionDivider />
@@ -12,7 +14,7 @@ const Projects = () => (
       {projects.map((p, i) => {
         return (
           <BlogCard key={i}>
-          <Img src={p.image} />
+          <Img src={prefix + p.image} />
             <TitleContent>
               <HeaderThree title>{p.title}</HeaderThree>
               <Hr />
