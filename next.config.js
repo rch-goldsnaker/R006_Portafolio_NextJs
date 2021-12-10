@@ -1,4 +1,4 @@
 module.exports = {
     basePath: '/TestingGithubActions',
-    assetPrefix: isProd ? '/TestingGithubActions',
+    assetPrefix: isProd ? '/TestingGithubActions'
   }
