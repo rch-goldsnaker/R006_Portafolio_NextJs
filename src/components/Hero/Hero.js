@@ -13,7 +13,8 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+          Hello! My name is Roger Chung I'm a Electromechanical Engineer and Full Stack Developer.
+          I am passionate about technology, especially in the creation of web application about Internet of Things and Machine Learning.
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
