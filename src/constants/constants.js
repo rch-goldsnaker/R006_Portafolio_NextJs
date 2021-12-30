@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Blog - IoT Projects',
     description: "Using React, NextJs, GraphQL & Tailwind CSS - The Blog is called IoT Projects and it is a blog where I publish articles related to device configuration and programming, as well as IoT projects related to industrial automation and sensor monitoring.",
-      image: '/images/blogIotProjects.jpg',
+      image: '/images/blogIotProjects2.PNG',
       tags: ['React', 'GraphQL', 'NextJS', 'Tailwind CSS'],
     source: 'https://r005-blog-next-js-graph-ql-tailwind-e64z3dvhj-rch-goldsnaker.vercel.app',
     visit: 'https://github.com/rch-goldsnaker/R005_Blog_NextJs-GraphQL-Tailwind',
