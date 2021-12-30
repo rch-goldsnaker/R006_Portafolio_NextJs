@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-      image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'Blog - IoT Projects',
+    description: "Using React, NextJs, GraphQL & Tailwind CSS - The Blog is called IoT Projects and it is a blog where I publish articles related to device configuration and programming, as well as IoT projects related to industrial automation and sensor monitoring.",
+      image: '/images/blogIotProjects.jpg',
+      tags: ['React', 'GraphQL', 'NextJS', 'Tailwind CSS'],
+    source: 'https://r005-blog-next-js-graph-ql-tailwind-e64z3dvhj-rch-goldsnaker.vercel.app',
+    visit: 'https://github.com/rch-goldsnaker/R005_Blog_NextJs-GraphQL-Tailwind',
     id: 0,
   },
   {

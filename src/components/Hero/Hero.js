@@ -16,7 +16,7 @@ const Hero = (props) => (
           Hello! My name is Roger Chung I'm a Electromechanical Engineer and Full Stack Developer.
           I am passionate about technology, especially in the creation of web application about Internet of Things and Machine Learning.
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        {/* <Button onClick={props.handleClick}>Learn More</Button> */}
       </LeftSection>
     </Section>
   </>
