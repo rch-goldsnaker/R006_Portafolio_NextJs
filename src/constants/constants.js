@@ -17,6 +17,15 @@ export const projects = [
     visit: 'https://github.com/rch-goldsnaker/rch.goldsnaker',
     id: 1,
   },
+  {
+    title: 'IoT Monitoring',
+    description:"Using Html, Javascript and CSS - It is a web site where a dashboard of temperature motor sensors are shown. This Front-end template can be integrated with a IoT Project for the temperature motor control and monitoring.This could help with the maintenance of the equipment and prevent future failures.",
+    image: '/images/iotmotor.PNG',
+    tags: ['Html', 'JavaScript','CSS'],
+    source: 'https://rch-goldsnaker.github.io/rch.goldsnaker/',
+    visit: 'https://github.com/rch-goldsnaker/rch.goldsnaker',
+    id: 2,
+  }
 ];
 
 export const TimeLineData = [
