@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'IoT Dashboard EMQX',
     description:"This is a very interesting project, where it starts from the programming of the Esp8266 and Esp32Cam devices together with the DHT11 temperature and humidity sensor, going through the frontend with Nuxt, then to the Backend with NodeJs, using a database with MongoDB, and finally an MQTT broker using EMQX. In the link you can see the static version on github pages.",
-    image: '/images/dashboard-demo-iot.PNG',
+    image: '/images/dashboard-demo-iot.png',
     tags: ['Nuxt', 'Node','Mongo','Emqx','Esp8266','Esp32Cam'],
     source: 'https://rch-goldsnaker.github.io/iot-demo.github.io/login',
     visit: 'https://github.com/rch-goldsnaker/iot-demo.github.io',
