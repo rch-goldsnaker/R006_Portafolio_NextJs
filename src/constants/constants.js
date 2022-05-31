@@ -1,12 +1,21 @@
 export const projects = [
   {
+    title: 'IoT Dashboard EMQX',
+    description:"This is a very interesting project, where it starts from the programming of the Esp8266 and Esp32Cam devices together with the DHT11 temperature and humidity sensor, going through the frontend with Nuxt, then to the Backend with NodeJs, using a database with MongoDB, and finally an MQTT broker using EMQX. In the link you can see the static version on github pages.",
+    image: '/images/dashboard-demo-iot.png',
+    tags: ['Nuxt', 'Node','Mongo','Emqx','Esp8266','Esp32Cam'],
+    source: 'https://rch-goldsnaker.github.io/iot-demo.github.io/login',
+    visit: 'https://github.com/rch-goldsnaker/iot-demo.github.io',
+    id: 0,
+  },
+  {
     title: 'Blog - IoT Projects',
     description: "Using React, NextJs, GraphQL and Tailwind CSS - The Blog is called IoT Projects and it is a blog where I publish articles related to device configuration and programming, as well as IoT projects related to industrial automation and sensor monitoring.",
       image: '/images/blogIotProjects2.PNG',
       tags: ['React', 'GraphQL', 'NextJS', 'Tailwind CSS'],
     source: 'https://r005-blog-next-js-graph-ql-tailwind-e64z3dvhj-rch-goldsnaker.vercel.app',
     visit: 'https://github.com/rch-goldsnaker/R005_Blog_NextJs-GraphQL-Tailwind',
-    id: 0,
+    id: 1,
   },
   {
     title: 'IoT Monitoring',
@@ -15,17 +24,8 @@ export const projects = [
     tags: ['Html', 'JavaScript','CSS'],
     source: 'https://rch-goldsnaker.github.io/rch.goldsnaker/',
     visit: 'https://github.com/rch-goldsnaker/rch.goldsnaker',
-    id: 1,
-  },
-  {
-    title: 'IoT Dashboard EMQX',
-    description:"This is a very interesting project, where it starts from the programming of the Esp8266 and Esp32Cam devices together with the DHT11 temperature and humidity sensor, going through the frontend with Nuxt, then to the Backend with NodeJs, using a database with MongoDB, and finally an MQTT broker using EMQX. In the link you can see the static version on github pages.",
-    image: '/images/dashboard-demo-iot.png',
-    tags: ['Nuxt', 'Node','Mongo','Emqx','Esp8266','Esp32Cam'],
-    source: 'https://rch-goldsnaker.github.io/iot-demo.github.io/login',
-    visit: 'https://github.com/rch-goldsnaker/iot-demo.github.io',
     id: 2,
-  }
+  },
 ];
 
 export const TimeLineData = [
