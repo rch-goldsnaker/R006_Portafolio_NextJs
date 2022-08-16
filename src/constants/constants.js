@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Machine Learning',
-    description:"Using TensorFlow.js - On this web page you can see how a simple problem can be solved using machine learning. You can also see how a model is trained and tested. Being a machine learning application, we tried to use the simplest technologies in order to improve performance.",
+    description:"Using TensorFlow.js - On this web page you can see how a simple problem can be solved using machine learning. You can also see how a model is trained and tested. Being a machine learning application, I tried to use the simplest technologies in order to improve performance.",
     image: '/images/mlXor.JPG',
     tags: ['Html', 'JavaScript','CSS','TensorFlow.js'],
     source: 'https://rch-goldsnaker.github.io/TensorFlowJS_XOR_001/',
