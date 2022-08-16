@@ -26,6 +26,15 @@ export const projects = [
     visit: 'https://github.com/rch-goldsnaker/rch.goldsnaker',
     id: 2,
   },
+  {
+    title: 'Machine Learning',
+    description:"Using TensorFlow.js - On this web page you can see how a simple problem can be solved using machine learning. You can also see how a model is trained and tested. Being a machine learning application, we tried to use the simplest technologies in order to improve performance.",
+    image: '/images/mlXor.JPG',
+    tags: ['Html', 'JavaScript','CSS','TensorFlow.js'],
+    source: 'https://rch-goldsnaker.github.io/TensorFlowJS_XOR_001/',
+    visit: 'https://github.com/rch-goldsnaker/TensorFlowJS_XOR_001',
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
