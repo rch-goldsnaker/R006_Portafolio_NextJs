@@ -35,6 +35,15 @@ export const projects = [
     visit: 'https://github.com/rch-goldsnaker/TensorFlowJS_XOR_001',
     id: 3,
   },
+  {
+    title: 'Machine Learning',
+    description:"Using TensorFlow.js - On this web you can see a machine learning application that can recognize random images.For the generation of random images we will use an external source such as 'picsum', and for image recognition we are going to use 'mobilenet'.",
+    image: '/images/mlPrediction.JPG',
+    tags: ['Html', 'JavaScript','CSS','TensorFlow.js'],
+    source: 'https://rch-goldsnaker.github.io/TensorFlowJS_Mobilenet_002/',
+    visit: 'https://github.com/rch-goldsnaker/TensorFlowJS_Mobilenet_002',
+    id: 4,
+  },
 ];
 
 export const TimeLineData = [
