@@ -44,6 +44,15 @@ export const projects = [
     visit: 'https://github.com/rch-goldsnaker/TensorFlowJS_Mobilenet_002',
     id: 4,
   },
+  {
+    title: 'Machine Learning',
+    description:"Using TensorFlow.js - On this web you can see a machine learning application that can recognize images from a camera in real time, and also that the app has the possibility of being trained with any image.First for the image recognition we are going to use 'mobilenet' and the webcam, then we are going to transfer the knowledge to 'knn-classifier' to be able to train the model with any image.",
+    image: '/images/transferTensor.JPG',
+    tags: ['Html', 'JavaScript','CSS','TensorFlow.js'],
+    source: 'https://rch-goldsnaker.github.io/TensorFlowJS_knowledgeTransfer_003/',
+    visit: 'https://github.com/rch-goldsnaker/TensorFlowJS_knowledgeTransfer_003',
+    id: 5,
+  },
 ];
 
 export const TimeLineData = [
