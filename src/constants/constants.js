@@ -1,20 +1,24 @@
 export const projects = [
   {
-    title: 'IoT Dashboard EMQX',
-    description:"This is a very interesting project, where it starts from the programming of the Esp8266 and Esp32Cam devices together with the DHT11 temperature and humidity sensor, going through the frontend with Nuxt, then to the Backend with NodeJs, using a database with MongoDB, and finally an MQTT broker using EMQX. In the link you can see the static version on github pages.",
-    image: '/images/dashboard-demo-iot.png',
-    tags: ['Nuxt', 'Node','Mongo','Emqx','Esp8266','Esp32Cam'],
-    source: 'https://rch-goldsnaker.github.io/iot-demo.github.io/login',
-    visit: 'https://github.com/rch-goldsnaker/iot-demo.github.io',
+    title: "IoT Dashboard EMQX",
+    description:
+      "This is a very interesting project, where it starts from the programming of the Esp8266 and Esp32Cam devices together with the DHT11 temperature and humidity sensor, going through the frontend with Nuxt, then to the Backend with NodeJs, using a database with MongoDB, and finally an MQTT broker using EMQX. In the link you can see the static version on github pages.",
+    image: "/images/dashboard-demo-iot.png",
+    tags: ["Nuxt", "Node", "Mongo", "Emqx", "Esp8266", "Esp32Cam"],
+    source: "https://rch-goldsnaker.github.io/iot-demo.github.io/login",
+    visit: "https://github.com/rch-goldsnaker/iot-demo.github.io",
     id: 0,
   },
   {
-    title: 'Blog - IoT Projects',
-    description: "Using React, NextJs, GraphQL and Tailwind CSS - The Blog is called IoT Projects and it is a blog where I publish articles related to device configuration and programming, as well as IoT projects related to industrial automation and sensor monitoring.",
-      image: '/images/blogIotProjects2.PNG',
-      tags: ['React', 'GraphQL', 'NextJS', 'Tailwind CSS'],
-    source: 'https://r005-blog-next-js-graph-ql-tailwind-e64z3dvhj-rch-goldsnaker.vercel.app',
-    visit: 'https://github.com/rch-goldsnaker/R005_Blog_NextJs-GraphQL-Tailwind',
+    title: "Blog - IoT Projects",
+    description:
+      "Using React, NextJs, GraphQL and Tailwind CSS - The Blog is called IoT Projects and it is a blog where I publish articles related to device configuration and programming, as well as IoT projects related to industrial automation and sensor monitoring.",
+    image: "/images/blogIotProjects2.PNG",
+    tags: ["React", "GraphQL", "NextJS", "Tailwind CSS"],
+    source:
+      "https://r005-blog-next-js-graph-ql-tailwind-e64z3dvhj-rch-goldsnaker.vercel.app",
+    visit:
+      "https://github.com/rch-goldsnaker/R005_Blog_NextJs-GraphQL-Tailwind",
     id: 1,
   },
   // {
@@ -36,22 +40,45 @@ export const projects = [
   //   id: 3,
   // },
   {
-    title: 'Machine Learning',
-    description:"Using TensorFlow.js - On this web you can see a machine learning application that can recognize images from a camera in real time, and also that the app has the possibility of being trained with any image.First for the image recognition we are going to use 'mobilenet' and the webcam, then we are going to transfer the knowledge to 'knn-classifier' to be able to train the model with any image.",
-    image: '/images/transferTensor.JPG',
-    tags: ['Html', 'JavaScript','CSS','TensorFlow.js'],
-    source: 'https://rch-goldsnaker.github.io/TensorFlowJS_knowledgeTransfer_003/',
-    visit: 'https://github.com/rch-goldsnaker/TensorFlowJS_knowledgeTransfer_003',
+    title: "Machine Learning",
+    description:
+      "Using TensorFlow.js - On this web you can see a machine learning application that can recognize images from a camera in real time, and also that the app has the possibility of being trained with any image.First for the image recognition we are going to use 'mobilenet' and the webcam, then we are going to transfer the knowledge to 'knn-classifier' to be able to train the model with any image.",
+    image: "/images/transferTensor.JPG",
+    tags: ["Html", "JavaScript", "CSS", "TensorFlow.js"],
+    source:
+      "https://rch-goldsnaker.github.io/TensorFlowJS_knowledgeTransfer_003/",
+    visit:
+      "https://github.com/rch-goldsnaker/TensorFlowJS_knowledgeTransfer_003",
     id: 2,
   },
   {
-    title: 'Machine Learning',
-    description:"Using TensorFlow.js - On this web you can see a machine learning application that can recognize random images.For the generation of random images we will use an external source such as 'picsum', and for image recognition we are going to use 'mobilenet'.",
-    image: '/images/mlPrediction.JPG',
-    tags: ['Html', 'JavaScript','CSS','TensorFlow.js'],
-    source: 'https://rch-goldsnaker.github.io/TensorFlowJS_Mobilenet_002/',
-    visit: 'https://github.com/rch-goldsnaker/TensorFlowJS_Mobilenet_002',
+    title: "Machine Learning",
+    description:
+      "Using TensorFlow.js - On this web you can see a machine learning application that can recognize random images.For the generation of random images we will use an external source such as 'picsum', and for image recognition we are going to use 'mobilenet'.",
+    image: "/images/mlPrediction.JPG",
+    tags: ["Html", "JavaScript", "CSS", "TensorFlow.js"],
+    source: "https://rch-goldsnaker.github.io/TensorFlowJS_Mobilenet_002/",
+    visit: "https://github.com/rch-goldsnaker/TensorFlowJS_Mobilenet_002",
     id: 3,
+  },
+  {
+    title: "Cards Links",
+    description:
+      "This application is a CRUD integrating Angular, and supabase. It is used to save and display links quickly and easily.",
+    image: "/images/cardLinks.jpeg",
+    tags: ["Angular", "TypeScript", "Supabase"],
+    source: "https://github.com/rch-goldsnaker/card-links-app",
+    visit: "https://card-links-app.vercel.app/",
+    id: 4,
+  },
+  {
+    title: "Music Player",
+    description: "This is a music player built with Angular.",
+    image: "/images/musicPlayer.jpeg",
+    tags: ["Angular", "TypeScript", "SCSS"],
+    source: "https://github.com/rch-goldsnaker/music-reproductor-angular",
+    visit: "https://music-reproductor-angular.vercel.app/",
+    id: 5,
   },
 ];
 
