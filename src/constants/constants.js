@@ -88,6 +88,15 @@ export const projects = [
     source: 'https://rch-goldsnaker.github.io/TensorFlowJS_XOR_001/',
     visit: 'https://github.com/rch-goldsnaker/TensorFlowJS_XOR_001',
     id: 8,
+  },
+  {
+    title: 'Blog Learn Korean',
+    description: "Using Next.js - This project is about a blog to learn Korean. I created it while studying for the TOPIK (Test of Proficiency in Korean) international exam.",
+    image: '/images/blogKorean.JPG',
+    tags: ["React", "GraphQL", "NextJS", "Tailwind CSS"],
+    source: 'https://github.com/rch-goldsnaker/R007_AprendeCoreano_Blog',
+    visit: 'https://r007-aprende-coreano-blog-hnco8e1kn-rch-goldsnaker.vercel.app/',
+    id: 9,
   }
 ];
 
