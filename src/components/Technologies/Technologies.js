@@ -68,6 +68,7 @@ const Technologies = () =>  (
           <ListParagraph>
             Experience with: <br />
             - EMQX<br />
+            - Thingsboard<br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
