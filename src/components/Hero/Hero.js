@@ -14,7 +14,7 @@ const Hero = (props) => (
         </SectionTitle>
         <SectionText>
           Hello! My name is Roger Chung I am a Electromechanical Engineer and Full Stack Developer.
-          I am passionate about technology, especially in the creation of web application about Internet of Things, Machine Learning and Industry 4.0.
+          Experienced Web Developer with a focus on Angular/React and Node.js. Specialized in building applications for the Internet of Things (IoT), I have a strong background in working with IoT platforms like ThingsBoard and managing brokers using EMQX. My expertise includes programming microcontrollers using C/C++, sensor management, and deploying applications using Docker.
         </SectionText>
         {/* <Button onClick={props.handleClick}>Learn More</Button> */}
       </LeftSection>
