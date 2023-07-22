@@ -14,8 +14,8 @@ export const projects = [
     description: "This application is a dashboard that shows the values obtained from various air sensors.It also helps the user to quickly identify the status of air quality.Within the app, the two air quality scales, such as PM2.5 and AQI, are displayed in the main part.then the temperature and pressure values are displayed.It also shows a table with the values obtained from the sensor.",
     image: "/images/airIot.JPG",
     tags: ["Angular", "TypeScript", "Angular Material"],
-    source: "https://github.com/rch-goldsnaker/Air_Quality_Monitor_Iot_App",
-    visit: "https://rch-goldsnaker.github.io/Air_Quality_Monitor_Iot_App/",
+    source: "https://rch-goldsnaker.github.io/Air_Quality_Monitor_Iot_App/ ",
+    visit: "https://github.com/rch-goldsnaker/Air_Quality_Monitor_Iot_App",
     id: 1,
   },
   {
@@ -70,8 +70,8 @@ export const projects = [
       "This application is a CRUD integrating Angular, and supabase. It is used to save and display links quickly and easily.",
     image: "/images/cardLinks.jpeg",
     tags: ["Angular", "TypeScript", "Supabase"],
-    source: "https://github.com/rch-goldsnaker/card-links-app",
-    visit: "https://card-links-app.vercel.app/",
+    source: "https://card-links-app.vercel.app/",
+    visit: "https://github.com/rch-goldsnaker/card-links-app",
     id: 6,
   },
   {
@@ -79,10 +79,10 @@ export const projects = [
     description: "This is a music player built with Angular.",
     image: "/images/musicPlayer.jpeg",
     tags: ["Angular", "TypeScript", "SCSS"],
-    source: "https://github.com/rch-goldsnaker/music-reproductor-angular",
-    visit: "https://music-reproductor-angular.vercel.app/",
+    source: "https://music-reproductor-angular.vercel.app/",
+    visit: "https://github.com/rch-goldsnaker/music-reproductor-angular",
     id: 7,
-  }, 
+  },
   {
     title: 'IoT Monitoring',
     description: "Using Html, Javascript and CSS - It is a web site where a dashboard of temperature motor sensors are shown. This Front-end template can be integrated with a IoT Project for the temperature motor control and monitoring.This could help with the maintenance of the equipment and prevent future failures.",
@@ -106,8 +106,8 @@ export const projects = [
     description: "Using Next.js - This project is about a blog to learn Korean. I created it while studying for the TOPIK (Test of Proficiency in Korean) international exam.",
     image: '/images/blogKorean.JPG',
     tags: ["React", "GraphQL", "NextJS", "Tailwind CSS"],
-    source: 'https://github.com/rch-goldsnaker/R007_AprendeCoreano_Blog',
-    visit: 'https://r007-aprende-coreano-blog-hnco8e1kn-rch-goldsnaker.vercel.app/',
+    source: 'https://r007-aprende-coreano-blog-hnco8e1kn-rch-goldsnaker.vercel.app/',
+    visit: 'https://github.com/rch-goldsnaker/R007_AprendeCoreano_Blog',
     id: 10,
   }
 ];
