@@ -21,7 +21,7 @@ export const projects = [
   {
     title: "Online Banking App",
     description:
-      "This application was developed using React on the frontend, Node.js on the backend, and MongoDB as the database.This banking application provides a robust platform for users to perform transactions, view their accounts, and make transfers conveniently.With its home screen, dashboard, transaction visualization, and online banking capabilities, along with its responsive design, this application is a comprehensive solution for users' banking needs.",
+      "This is a Full Stack application and was developed using React on the frontend, Node.js on the backend, and MongoDB as the database.This banking application provides a robust platform for users to perform transactions, view their accounts, and make transfers conveniently.With its home screen, dashboard, transaction visualization, and online banking capabilities, along with its responsive design, this application is a comprehensive solution for users' banking needs.",
     image: "/images/onlineBankinApp.JPG",
     tags: ["React", "Node", "Mongo DB", "Tailwind CSS"],
     source:
