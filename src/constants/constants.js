@@ -10,6 +10,27 @@ export const projects = [
     id: 0,
   },
   {
+    title: "Air Quality Monitor Iot",
+    description: "This application is a dashboard that shows the values obtained from various air sensors.It also helps the user to quickly identify the status of air quality.Within the app, the two air quality scales, such as PM2.5 and AQI, are displayed in the main part.then the temperature and pressure values are displayed.It also shows a table with the values obtained from the sensor.",
+    image: "/images/airIot.JPG",
+    tags: ["Angular", "TypeScript", "Angular Material"],
+    source: "https://github.com/rch-goldsnaker/Air_Quality_Monitor_Iot_App",
+    visit: "https://rch-goldsnaker.github.io/Air_Quality_Monitor_Iot_App/",
+    id: 1,
+  },
+  {
+    title: "Online Banking App",
+    description:
+      "This application was developed using React on the frontend, Node.js on the backend, and MongoDB as the database.This banking application provides a robust platform for users to perform transactions, view their accounts, and make transfers conveniently.With its home screen, dashboard, transaction visualization, and online banking capabilities, along with its responsive design, this application is a comprehensive solution for users' banking needs.",
+    image: "/images/onlineBankinApp.JPG",
+    tags: ["React", "Node", "Mongo DB", "Tailwind CSS"],
+    source:
+      "https://online-banking-app-frontend.vercel.app/",
+    visit:
+      "https://github.com/rch-goldsnaker/OnlineBankingApp_frontend",
+    id: 2,
+  },
+  {
     title: "Blog - IoT Projects",
     description:
       "Using React, NextJs, GraphQL and Tailwind CSS - The Blog is called IoT Projects and it is a blog where I publish articles related to device configuration and programming, as well as IoT projects related to industrial automation and sensor monitoring.",
@@ -19,16 +40,7 @@ export const projects = [
       "https://r005-blog-next-js-graph-ql-tailwind-e64z3dvhj-rch-goldsnaker.vercel.app",
     visit:
       "https://github.com/rch-goldsnaker/R005_Blog_NextJs-GraphQL-Tailwind",
-    id: 1,
-  },
-  {
-    title: "Air Quality Monitor Iot",
-    description: "This application is a dashboard that shows the values obtained from various air sensors.It also helps the user to quickly identify the status of air quality.Within the app, the two air quality scales, such as PM2.5 and AQI, are displayed in the main part.then the temperature and pressure values are displayed.It also shows a table with the values obtained from the sensor.",
-    image: "/images/airIot.JPG",
-    tags: ["Angular", "TypeScript", "Angular Material"],
-    source: "https://github.com/rch-goldsnaker/Air_Quality_Monitor_Iot_App",
-    visit: "https://rch-goldsnaker.github.io/Air_Quality_Monitor_Iot_App/",
-    id: 2,
+    id: 3,
   },
   {
     title: "Machine Learning",
@@ -40,7 +52,7 @@ export const projects = [
       "https://rch-goldsnaker.github.io/TensorFlowJS_knowledgeTransfer_003/",
     visit:
       "https://github.com/rch-goldsnaker/TensorFlowJS_knowledgeTransfer_003",
-    id: 3,
+    id: 4,
   },
   {
     title: "Machine Learning",
@@ -50,7 +62,7 @@ export const projects = [
     tags: ["Html", "JavaScript", "CSS", "TensorFlow.js"],
     source: "https://rch-goldsnaker.github.io/TensorFlowJS_Mobilenet_002/",
     visit: "https://github.com/rch-goldsnaker/TensorFlowJS_Mobilenet_002",
-    id: 4,
+    id: 5,
   },
   {
     title: "Cards Links",
@@ -60,7 +72,7 @@ export const projects = [
     tags: ["Angular", "TypeScript", "Supabase"],
     source: "https://github.com/rch-goldsnaker/card-links-app",
     visit: "https://card-links-app.vercel.app/",
-    id: 5,
+    id: 6,
   },
   {
     title: "Music Player",
@@ -69,7 +81,7 @@ export const projects = [
     tags: ["Angular", "TypeScript", "SCSS"],
     source: "https://github.com/rch-goldsnaker/music-reproductor-angular",
     visit: "https://music-reproductor-angular.vercel.app/",
-    id: 6,
+    id: 7,
   }, 
   {
     title: 'IoT Monitoring',
@@ -78,7 +90,7 @@ export const projects = [
     tags: ['Html', 'JavaScript', 'CSS'],
     source: 'https://rch-goldsnaker.github.io/rch.goldsnaker/',
     visit: 'https://github.com/rch-goldsnaker/rch.goldsnaker',
-    id: 7,
+    id: 8,
   },
   {
     title: 'Machine Learning',
@@ -87,7 +99,7 @@ export const projects = [
     tags: ['Html', 'JavaScript', 'CSS', 'TensorFlow.js'],
     source: 'https://rch-goldsnaker.github.io/TensorFlowJS_XOR_001/',
     visit: 'https://github.com/rch-goldsnaker/TensorFlowJS_XOR_001',
-    id: 8,
+    id: 9,
   },
   {
     title: 'Blog Learn Korean',
@@ -96,7 +108,7 @@ export const projects = [
     tags: ["React", "GraphQL", "NextJS", "Tailwind CSS"],
     source: 'https://github.com/rch-goldsnaker/R007_AprendeCoreano_Blog',
     visit: 'https://r007-aprende-coreano-blog-hnco8e1kn-rch-goldsnaker.vercel.app/',
-    id: 9,
+    id: 10,
   }
 ];
 
