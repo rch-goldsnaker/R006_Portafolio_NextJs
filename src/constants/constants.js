@@ -1,5 +1,15 @@
 export const projects = [
   {
+    title: "Portfolio 3D",
+    description:
+      "This is a page where you can see the 3D model of an animated robotic arm, rendered within a web application. Inside the page there is a section of my projects, my experience and contacts.",
+    image: "/images/portafolio3d.png",
+    tags: ["Three.js", "React", "Tailwind CSS", "JavaScript"],
+    source: "https://port-folio-3-d-gamma.vercel.app/",
+    visit: "https://github.com/rch-goldsnaker/PortFolio_3D",
+    id: 0,
+  },
+  {
     title: "IoT Dashboard EMQX",
     description:
       "This is a very interesting project, where it starts from the programming of the Esp8266 and Esp32Cam devices together with the DHT11 temperature and humidity sensor, going through the frontend with Nuxt, then to the Backend with NodeJs, using a database with MongoDB, and finally an MQTT broker using EMQX. In the link you can see the static version on github pages.",
@@ -7,7 +17,7 @@ export const projects = [
     tags: ["Nuxt", "Node", "Mongo", "Emqx", "Esp8266", "Esp32Cam"],
     source: "https://rch-goldsnaker.github.io/iot-demo.github.io/login",
     visit: "https://github.com/rch-goldsnaker/iot-demo.github.io",
-    id: 0,
+    id: 1,
   },
   {
     title: "Air Quality Monitor Iot",
@@ -16,7 +26,7 @@ export const projects = [
     tags: ["Angular", "TypeScript", "Angular Material"],
     source: "https://rch-goldsnaker.github.io/Air_Quality_Monitor_Iot_App/ ",
     visit: "https://github.com/rch-goldsnaker/Air_Quality_Monitor_Iot_App",
-    id: 1,
+    id: 2,
   },
   {
     title: "Online Banking App",
@@ -28,7 +38,7 @@ export const projects = [
       "https://online-banking-app-frontend.vercel.app/",
     visit:
       "https://github.com/rch-goldsnaker/OnlineBankingApp_frontend",
-    id: 2,
+    id: 3,
   },
   {
     title: "Blog - IoT Projects",
@@ -40,7 +50,7 @@ export const projects = [
       "https://r005-blog-next-js-graph-ql-tailwind-e64z3dvhj-rch-goldsnaker.vercel.app",
     visit:
       "https://github.com/rch-goldsnaker/R005_Blog_NextJs-GraphQL-Tailwind",
-    id: 3,
+    id: 4,
   },
   {
     title: "Machine Learning",
@@ -52,7 +62,7 @@ export const projects = [
       "https://rch-goldsnaker.github.io/TensorFlowJS_knowledgeTransfer_003/",
     visit:
       "https://github.com/rch-goldsnaker/TensorFlowJS_knowledgeTransfer_003",
-    id: 4,
+    id: 5,
   },
   {
     title: "Machine Learning",
@@ -62,7 +72,7 @@ export const projects = [
     tags: ["Html", "JavaScript", "CSS", "TensorFlow.js"],
     source: "https://rch-goldsnaker.github.io/TensorFlowJS_Mobilenet_002/",
     visit: "https://github.com/rch-goldsnaker/TensorFlowJS_Mobilenet_002",
-    id: 5,
+    id: 6,
   },
   {
     title: "Cards Links",
@@ -72,7 +82,7 @@ export const projects = [
     tags: ["Angular", "TypeScript", "Supabase"],
     source: "https://card-links-app.vercel.app/",
     visit: "https://github.com/rch-goldsnaker/card-links-app",
-    id: 6,
+    id: 7,
   },
   {
     title: "Music Player",
@@ -81,7 +91,7 @@ export const projects = [
     tags: ["Angular", "TypeScript", "SCSS"],
     source: "https://music-reproductor-angular.vercel.app/",
     visit: "https://github.com/rch-goldsnaker/music-reproductor-angular",
-    id: 7,
+    id: 8,
   },
   {
     title: 'IoT Monitoring',
@@ -90,7 +100,7 @@ export const projects = [
     tags: ['Html', 'JavaScript', 'CSS'],
     source: 'https://rch-goldsnaker.github.io/rch.goldsnaker/',
     visit: 'https://github.com/rch-goldsnaker/rch.goldsnaker',
-    id: 8,
+    id: 9,
   },
   {
     title: 'Machine Learning',
@@ -99,7 +109,7 @@ export const projects = [
     tags: ['Html', 'JavaScript', 'CSS', 'TensorFlow.js'],
     source: 'https://rch-goldsnaker.github.io/TensorFlowJS_XOR_001/',
     visit: 'https://github.com/rch-goldsnaker/TensorFlowJS_XOR_001',
-    id: 9,
+    id: 10,
   },
   {
     title: 'Blog Learn Korean',
@@ -108,7 +118,7 @@ export const projects = [
     tags: ["React", "GraphQL", "NextJS", "Tailwind CSS"],
     source: 'https://r007-aprende-coreano-blog-hnco8e1kn-rch-goldsnaker.vercel.app/',
     visit: 'https://github.com/rch-goldsnaker/R007_AprendeCoreano_Blog',
-    id: 10,
+    id: 11,
   }
 ];
 
