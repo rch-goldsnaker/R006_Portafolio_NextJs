@@ -29,6 +29,15 @@ export const projects = [
     id: 2,
   },
   {
+    title: "Dashboard 3D",
+    description: "This project was carried out using a tool for web page rendering. Using splines, a 3D and responsive webpage was constructed",
+    image: "/images/dasboard3d.png",
+    tags: ["Three.js", "React", "Spline"],
+    source: "https://my.spline.design/dashboard-742c0757b3aedbc5094c0ea6baefcfb3/",
+    visit: "https://my.spline.design/dashboard-742c0757b3aedbc5094c0ea6baefcfb3/",
+    id: 3,
+  },
+  {
     title: "Online Banking App",
     description:
       "This is a Full Stack application and was developed using React on the frontend, Node.js on the backend, and MongoDB as the database.This banking application provides a robust platform for users to perform transactions, view their accounts, and make transfers conveniently.With its home screen, dashboard, transaction visualization, and online banking capabilities, along with its responsive design, this application is a comprehensive solution for users' banking needs.",
@@ -38,7 +47,7 @@ export const projects = [
       "https://online-banking-app-frontend.vercel.app/",
     visit:
       "https://github.com/rch-goldsnaker/OnlineBankingApp_frontend",
-    id: 3,
+    id: 4,
   },
   {
     title: "Blog - IoT Projects",
@@ -50,7 +59,7 @@ export const projects = [
       "https://r005-blog-next-js-graph-ql-tailwind-e64z3dvhj-rch-goldsnaker.vercel.app",
     visit:
       "https://github.com/rch-goldsnaker/R005_Blog_NextJs-GraphQL-Tailwind",
-    id: 4,
+    id: 5,
   },
   {
     title: "Machine Learning",
@@ -62,7 +71,7 @@ export const projects = [
       "https://rch-goldsnaker.github.io/TensorFlowJS_knowledgeTransfer_003/",
     visit:
       "https://github.com/rch-goldsnaker/TensorFlowJS_knowledgeTransfer_003",
-    id: 5,
+    id: 6,
   },
   {
     title: "Machine Learning",
@@ -72,7 +81,7 @@ export const projects = [
     tags: ["Html", "JavaScript", "CSS", "TensorFlow.js"],
     source: "https://rch-goldsnaker.github.io/TensorFlowJS_Mobilenet_002/",
     visit: "https://github.com/rch-goldsnaker/TensorFlowJS_Mobilenet_002",
-    id: 6,
+    id: 7,
   },
   {
     title: "Cards Links",
@@ -82,7 +91,7 @@ export const projects = [
     tags: ["Angular", "TypeScript", "Supabase"],
     source: "https://card-links-app.vercel.app/",
     visit: "https://github.com/rch-goldsnaker/card-links-app",
-    id: 7,
+    id: 8,
   },
   {
     title: "Music Player",
@@ -91,7 +100,7 @@ export const projects = [
     tags: ["Angular", "TypeScript", "SCSS"],
     source: "https://music-reproductor-angular.vercel.app/",
     visit: "https://github.com/rch-goldsnaker/music-reproductor-angular",
-    id: 8,
+    id: 9,
   },
   {
     title: 'IoT Monitoring',
@@ -100,7 +109,7 @@ export const projects = [
     tags: ['Html', 'JavaScript', 'CSS'],
     source: 'https://rch-goldsnaker.github.io/rch.goldsnaker/',
     visit: 'https://github.com/rch-goldsnaker/rch.goldsnaker',
-    id: 9,
+    id: 10,
   },
   {
     title: 'Machine Learning',
@@ -109,7 +118,7 @@ export const projects = [
     tags: ['Html', 'JavaScript', 'CSS', 'TensorFlow.js'],
     source: 'https://rch-goldsnaker.github.io/TensorFlowJS_XOR_001/',
     visit: 'https://github.com/rch-goldsnaker/TensorFlowJS_XOR_001',
-    id: 10,
+    id: 11,
   },
   {
     title: 'Blog Learn Korean',
@@ -118,7 +127,7 @@ export const projects = [
     tags: ["React", "GraphQL", "NextJS", "Tailwind CSS"],
     source: 'https://r007-aprende-coreano-blog-hnco8e1kn-rch-goldsnaker.vercel.app/',
     visit: 'https://github.com/rch-goldsnaker/R007_AprendeCoreano_Blog',
-    id: 11,
+    id: 12,
   }
 ];
 
